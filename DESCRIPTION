@@ -40,7 +40,9 @@ Imports: Rcpp (>= 0.12.10),
 	 pathcat,
 	 binnr,
 	 curl,
-	 entropy
+	 entropy,
+	 rvest,
+	 packrat
 LinkingTo: Rcpp
 Depends:
     data.table,
@@ -53,4 +55,6 @@ Remotes:
 	 adamryczkowski/depwalker,
 	 adamryczkowski/danesurowe,
 	 adamryczkowski/pathcat,
+	 adamryczkowski/relationshipMatrix,
+	 adamryczkowski/yuxiaCharts,
 	 Zelazny7/binnr
