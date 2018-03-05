@@ -45,7 +45,8 @@ Imports: Rcpp (>= 0.12.10),
 	 packrat,
 	 devtools,
 	 sessioninfo,
-	 usethis
+	 usethis,
+	 nlopt
 LinkingTo: Rcpp
 Depends:
     data.table,
