@@ -42,7 +42,8 @@ Imports: Rcpp (>= 0.12.10),
 	 curl,
 	 entropy,
 	 rvest,
-	 packrat
+	 packrat,
+	 devtools
 LinkingTo: Rcpp
 Depends:
     data.table,
