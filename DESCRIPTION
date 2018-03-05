@@ -43,7 +43,9 @@ Imports: Rcpp (>= 0.12.10),
 	 entropy,
 	 rvest,
 	 packrat,
-	 devtools
+	 devtools,
+	 sessioninfo,
+	 usethis
 LinkingTo: Rcpp
 Depends:
     data.table,
