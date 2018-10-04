@@ -76,7 +76,7 @@ Imports: Rcpp (>= 0.12.10),
 	DMwR,
 	ROSE,
 	randomForest,
-	doMC
+	doMC,
 	QSARdata,
 	mboost,
 	sessioninfo,
